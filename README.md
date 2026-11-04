@@ -38,3 +38,13 @@ The repealed chapters are not reproduced, because the source omits them. Their d
 ## Fonts
 
 The stylesheet embeds IM Fell English and IM Fell English SC, licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** Contains public sector information licensed under the Open Government Licence v3.0, from legislation.gov.uk.
+- **Images:** A photograph marked public domain on Wikimedia Commons. The white background has been removed.
+- **Fonts:** IM Fell English and IM Fell English SC, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
